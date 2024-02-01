@@ -1,0 +1,3 @@
+Esta pagina es parte de un proyecto en el cual la subí a un hosting gratuito, generé un codigo QR con el link que se imprímió al final de un fanzine de la banda que se repartía en los primeros recitales. Una forma de difundir un demo personalmente y por fuera de las plataformas de streaming.
+
+This langing page its part of a proyect in witch I uploaded the page in a free hosting and generated an QR code with the link. We printed the QR at the end of a band fanzine and distributed it at the first concerts. A way to spread a demo personally and outside of streaming plataforms. 
